@@ -1,22 +1,26 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LucianoTreachi/Academia-Online-v1/main/assets/readme/banner.jpg" width="100%" alt="Banner"/>
-</div>
+# Sitio web para una Academia que vende Cursos Online
 
-### ✅ Proyecto
+[![Captura de pantalla del proyecto](https://i.postimg.cc/PJ1xQz1C/website.jpg)](https://postimg.cc/vxHbQnqy)
 
-- Diseñé y desarrollé la versión 1 de un sitio web para una Academia que vende cursos online. El sitio se puede recorrer a través de 5 páginas internas: Home, Nosotros, Testimonios, Cursos, y Contacto. Es 100% responsivo, se adapta perfectamente a cualquier dispositivo: escritorio, tablet y móvil.
+## Explora el sitio web
 
-### ⚡ Tecnologías Utilizadas
+Accede aquí → [Sitio web](https://academiaonline1.netlify.app/)
 
-- HTML5
-- CSS3
-- JavaScript
-- Sass
-- Bootstrap
-- WOW JS
-- Particles JS
-- Swiper JS
+## Tecnologías utilizadas
 
-### 👽 Autor
+- **HTML:** Estructura y contenido.
+- **Bootstrap:** Componentes reutilizables.
+- **Sass:** Organización y personalización de estilos.
+- **JavaScript:** Funcionalidad interactiva.
+- **WOW JS:** Animaciones al desplazarse por la página.
+- **Particles JS:** Efectos de partículas dinámicas.
+- **Swiper JS:** Carrusel de contenido interactivo.
 
-- Luciano Treachi
+## Desarrollado por
+
+**Luciano Treachi**
+
+Soy un Desarrollador Frontend dedicado a crear soluciones web eficientes, accesibles, intuitivas y fáciles de usar que potencian la experiencia del usuario.
+
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-black?style=for-the-badge&logoColor=white)](https://lucianotreachi.vercel.app/)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/luciano-treachi/)
