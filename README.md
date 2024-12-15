@@ -2,19 +2,25 @@
 
 [![Captura de pantalla del proyecto](https://i.postimg.cc/PJ1xQz1C/website.jpg)](https://postimg.cc/vxHbQnqy)
 
-## Explora el sitio web
-
-Accede aquí → [Sitio web](https://academiaonline1.netlify.app/)
-
 ## Tecnologías utilizadas
 
 - **HTML:** Estructura y contenido.
+
 - **Bootstrap:** Componentes reutilizables.
+
 - **Sass:** Organización y personalización de estilos.
+
 - **JavaScript:** Funcionalidad interactiva.
+
 - **WOW JS:** Animaciones al desplazarse por la página.
+
 - **Particles JS:** Efectos de partículas dinámicas.
+
 - **Swiper JS:** Carrusel de contenido interactivo.
+
+## Explora el sitio web
+
+Accede aquí → [Academia Online](https://academiaonline1.netlify.app/)
 
 ## Desarrollado por
 
