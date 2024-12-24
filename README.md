@@ -1,6 +1,6 @@
 # Sitio web para una Academia que vende Cursos Online
 
-[![Captura de pantalla del proyecto](https://i.postimg.cc/PJ1xQz1C/website.jpg)](https://postimg.cc/vxHbQnqy)
+![Captura de pantalla del proyecto](assets/readme/preview.png)
 
 ## Tecnologías utilizadas
 
